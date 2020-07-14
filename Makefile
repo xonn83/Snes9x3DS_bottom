@@ -27,7 +27,7 @@ include $(DEVKITARM)/3ds_rules
 #     - icon.png
 #     - <libctru folder>/default_icon.png
 #---------------------------------------------------------------------------------
-APP_TITLE	:=	SNES9x for 3DS (bottom screen)
+APP_TITLE	:=	SNES9x for 3DS (bottom)
 APP_DESCRIPTION	:=	SNES emulator for 3DS
 APP_AUTHOR	:=	bubble2k16
 ASSETS		:=	assets
