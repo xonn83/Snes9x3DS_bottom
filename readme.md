@@ -6,10 +6,7 @@ Snes9x for 3DS is a high-compatibility SNES emulator for your Old 3DS / 2DS. It 
 
 It also runs on your New 3DS, and performs much faster! Use your New 3DS if you want to play SuperFX and SA-1 games!
 
-### When in-game,
+### Download
+Snes9x3DS_bottom.3dsx    (to be launched from homebrew channel)
 
-1. Tap the bottom screen for the menu.
-2. Use Up/Down to choose option, and A to confirm.
-   (Hold down X while pressing Up/Down to Page Up/Page Down)
-3. Use Left/Right to change between ROM selection and emulator options.
-4. You can quit the emulator to your homebrew launcher / your CFW's home screen.
+Snes9x3DS_bottom.cia     (to be installed in home menu) [ Coming soon... ]
