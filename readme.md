@@ -9,4 +9,4 @@ It also runs on your New 3DS, and performs much faster! Use your New 3DS if you 
 ### Download
 Snes9x3DS_bottom.3dsx    (to be launched from homebrew channel)
 
-Snes9x3DS_bottom.cia     (to be installed in home menu) [ Coming soon... ]
+Snes9x3DS_bottom.cia     (to be installed in home menu)
