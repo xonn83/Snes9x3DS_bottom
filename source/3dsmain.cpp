@@ -914,14 +914,14 @@ bool settingsReadWriteFullListGlobal(bool writeMode)
 bool settingsSave(bool includeGameSettings = true)
 {
     consoleClear();
-    ui3dsDrawRect(50, 140, 270, 154, 0x000000);
-    ui3dsDrawStringWithNoWrapping(50, 140, 270, 154, 0x3f7fff, HALIGN_CENTER, "Saving settings to SD card...");
+    //ui3dsDrawRect(50, 140, 270, 154, 0x000000);
+    //ui3dsDrawStringWithNoWrapping(50, 140, 270, 154, 0x3f7fff, HALIGN_CENTER, "Saving settings to SD card...");
 
     if (includeGameSettings)
         settingsReadWriteFullListByGame(true);
 
     settingsReadWriteFullListGlobal(true);
-    ui3dsDrawRect(50, 140, 270, 154, 0x000000);
+    //ui3dsDrawRect(50, 140, 270, 154, 0x000000);
 
     settings3DS.Changed = false;
     return true;
